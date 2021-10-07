@@ -1,5 +1,5 @@
-# GCP-Killswitch
- Add a limit on billing costs for your GCP account.
+# GCP-Killswitch (Could have saved 3k with this , when private api keys were exposed )
+ Add a limit on billing costs for your GCP account
  
 
 
