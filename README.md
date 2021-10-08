@@ -49,5 +49,5 @@ Provide Billing Administration access to the Cloud Function Service Account
 
 ## Validate that Billing is Disabled
 
-![Disabled Billing](GCP-killswitch/main/images/billing-disabled.png)
+![Disabled Billing](https://github.com/punyaslokdutta/GCP-killswitch/blob/main/images/billing-disabled.png)
 
